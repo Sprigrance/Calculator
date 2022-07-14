@@ -21,5 +21,6 @@ public class Calculator {
         a = checking.checkRange(firstValue);
         b = checking.checkRange(secondValue);
         checking.showResult(a, b);
+        System.out.println("123");
     }
 }
